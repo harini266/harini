@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="view port "content="width-device-width",initial-scale-1.0>
+         <title>document</title>
+         <body>
+            <h2> HARINI MD</h2>
+            <li> email: harinharish688@gmail.com </li>
+            <li> date of birth: 30.03.2004</li>
+            <li>phone number: 8056240510</li>
+            <h2> CARRER OBJECTIVE </h2>
+            <P>embracing leadreships opportunites</P>
+            <h2> EDUCATION</h2>
+            <UL>
+            <li>bsc  mathematics with computer applications,madras universites,vallimmal college for women,69% </li>
+            <li> sslc,our's lady's mtric hr.sec school,70%</li>
+            <li> hsc,sri lakshmi narayana matriculation school ,68%</li>
+            </UL>
+            <h2>HOBBIES</h2>
+            <ul>
+                <li> cooking </li>
+                <li> watching cricket</li>
+                <li> listening music</li>
+                <li> playing games</li>
+            </ul>
+            <h2>SKILLS</h2>
+            <ul>
+                <li> c basics</li>
+                <li> j basics</li>
+                <li> full stack devolpment</li>
+            </ul>
+            <h2> LANGUAGE</h2>
+            <UL>
+                <li> tamil</li>
+                <li>english</li>
+                <li> telegu</li>
+            </UL>
+         </body>
+    </head>
+</html>
